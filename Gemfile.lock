@@ -37,7 +37,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.3.3)
-    display_case (0.0.2)
+    display_case (0.0.3)
     erubis (2.7.0)
     execjs (1.4.0)
       multi_json (~> 1.0)
@@ -105,7 +105,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
-  display_case
+  display_case (= 0.0.3)
   jquery-rails
   rails (= 3.2.5)
   sass-rails (~> 3.2.3)
